@@ -6,7 +6,7 @@ Convert images to beautifully crafted ASCII art using the power of neural networ
 
 Turn an image
 
-![eipi](images/eipi.svg)
+![eipi](images/eipi.png)
 
 into ASCII
 
@@ -50,7 +50,7 @@ into ASCII
 
 For some extra fun, try piping the result through lolcat:
 
-![lolcat](result_lolcat.png)
+![lolcat](images/result_lolcat.png)
 
 ## Installation
 
